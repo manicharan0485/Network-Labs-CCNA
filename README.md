@@ -57,3 +57,7 @@
 ---
 
 **Author:** Manicharan Ravi | IT Specialist | Mainz, Germany
+
+---
+
+**Manicharan Ravi** · [Portfolio](https://manicharan0485.github.io) · [LinkedIn](https://linkedin.com/in/manicharan-ravi)
