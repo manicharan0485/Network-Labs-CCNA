@@ -1,0 +1,12 @@
+# Packet Tracer files — check in the .pkt files
+# but exclude auto-saved backups
+*.bak
+*.tmp
+
+# Large capture files (too big for git — store separately)
+wireshark/captures/*.pcap
+wireshark/captures/*.pcapng
+
+# OS
+.DS_Store
+Thumbs.db
