@@ -1,7 +1,7 @@
 # 🌐 Network Labs — CCNA 200-301
 
 > Hands-on CCNA study labs — Cisco Packet Tracer configs, Wireshark analysis, structured notes, and Python utilities.  
-> Working toward **CCNA 200-301** — Target: June 2026.
+> Preparing for the **CCNA 200-301** exam. Completed: *Networking Fundamentals & Network Access* (Packt via Coursera, April 2026).
 
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
